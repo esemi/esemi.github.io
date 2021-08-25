@@ -1,11 +1,11 @@
-name: Deploy
+name: Pages
 
 on: push
 #    branches:
 #      - master
 
 jobs:
-  tests:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
