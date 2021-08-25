@@ -3,7 +3,7 @@
 ## Soft-skills
 
 ### english
-- **weekly lessons**
+- ~~weekly lessons~~
 - daily lessons
 
 ### TL 
@@ -13,24 +13,11 @@
 
 ## Hard-skills
 
-### DB
-- [ACID + transactions](https://postgrespro.ru/docs/postgrespro/10/tutorial-transactions)
-- [postgres MVCC](https://habr.com/ru/company/postgrespro/blog/442804/)
-- [postgres mistakes](https://habr.com/ru/company/postgrespro/blog/443792/)
-- книжка с кабанчиком
-- N+1 problem
-- CAP theorem
-- neo4j
-
-### MQ
-- rabbit
-- redpanda
-- nats
-
-### Arch
+### Common
 - SOLID
 - KISS+YAGNI+DRY
 - [Фаулер о микросервисах](https://habr.com/ru/post/249183/)
+- Clean code book
 - [migration strategy](https://roadmap.sh/backend)
 - [clean arch](https://habr.com/ru/company/exness/blog/494370/)
 - DDD
@@ -39,11 +26,25 @@
 - event sourcing
 - actors
 - FSM
+- JWT
+- OAuth
+
+### DB
+- [ACID + transactions](https://postgrespro.ru/docs/postgrespro/10/tutorial-transactions)
+- [postgres MVCC](https://habr.com/ru/company/postgrespro/blog/442804/)
+- [postgres mistakes](https://habr.com/ru/company/postgrespro/blog/443792/)
+- книжка с кабанчиком
+- N+1 problem
+- CAP theorem
+- <https://neo4j.com/>
+
+### MQ
+- <https://www.rabbitmq.com/>
+- <https://vectorized.io/>
+- <https://nats.io/>
 
 
 ### Python
-- JWT
-- OAuth
 - ~~[python alternative async](https://github.com/python-trio/trio)~~
 - [python sets](https://habr.com/ru/post/516858/)
 - [FP](https://habr.com/ru/post/505928/)
@@ -56,21 +57,25 @@
 
 ## Projects
 - github action for <https://markmap.js.org/docs/#markmap-cli>
+- [porngraph](https://pgraph.esemi.ru/) design and public
 - граф участников фильма {кто с кем снимается, кто кого снимает, какие сценаристы работали с большим количеством режисёров, имдб?}
 - граф актёров {кто с кем снимается (по порнороликам)}
 - слежка за FoMO тикерами с реддита и ростом упоминаний {вероятно памп, по коням!}
 
 ## Public relations
 
-### CV
-- update russian version of CV
-- update english version of CV
-
 ### Social
 - update linkedin [profile](https://www.linkedin.com/in/esemi/)
 - update [habr profile](https://career.habr.com/esemi)
+- update russian version of CV
+- update english version of CV
+- proofreading eng-CV
 
 ### github
-- update esemi.io pages
-- gist recycle
-- github recycle
+- ~~update esemi.io pages~~
+- esemi.io update design by templates from gh-pages
+- recycle repos and pins
+
+#### gist recycle
+- hide relocation.md
+- show hiring Q/A
