@@ -1,19 +1,58 @@
-# MindMap v2021.08.25
+# Simple mindmap for periodic refreshing 
 
-## Common
+## Soft-skills
 
 ### english
 - **weekly lessons**
 - daily lessons
 
-## CS
-- todo
-- todo
-- todo
+### TL 
+- [interns](https://habr.com/ru/company/raiffeisenbank/blog/526342/)
+- [todo plan](https://tlroadmap.io/guide.html#%D0%B4%D0%BB%D1%8F-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F)
 
-## Tech
+
+## Hard-skills
+
+### DB
+- [ACID + transactions](https://postgrespro.ru/docs/postgrespro/10/tutorial-transactions)
+- [postgres MVCC](https://habr.com/ru/company/postgrespro/blog/442804/)
+- [postgres mistakes](https://habr.com/ru/company/postgrespro/blog/443792/)
+- книжка с кабанчиком
+- N+1 problem
+- CAP theorem
+- neo4j
+
+### MQ
+- rabbit
+- redpanda
+- nats
+
+### Arch
+- SOLID
+- KISS+YAGNI+DRY
+- [Фаулер о микросервисах](https://habr.com/ru/post/249183/)
+- [migration strategy](https://roadmap.sh/backend)
+- [clean arch](https://habr.com/ru/company/exness/blog/494370/)
+- DDD
+- SOA
+- CQRS
+- event sourcing
+- actors
+- FSM
+
+
+### Python
+- JWT
+- OAuth
+- ~~[python alternative async](https://github.com/python-trio/trio)~~
+- [python sets](https://habr.com/ru/post/516858/)
+- [FP](https://habr.com/ru/post/505928/)
+- [вариантность](https://habr.com/ru/post/218753/)
 - <https://github.com/tiangolo/sqlmodel>
-- todo
+
+### devops
+- DO deploy with k8s
+- prom
 
 ## Projects
 - github action for <https://markmap.js.org/docs/#markmap-cli>
@@ -35,4 +74,3 @@
 - update esemi.io pages
 - gist recycle
 - github recycle
-
