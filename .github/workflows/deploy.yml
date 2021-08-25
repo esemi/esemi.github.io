@@ -1,8 +1,9 @@
 name: Pages
 
-on: push
-#    branches:
-#      - master
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   deploy:
@@ -12,21 +13,17 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Gen dummy page
-      run: |
-        cat > docs/deploy.html <<EOL
-        <!doctype html>
-        <html>
-          <head>
-            <title>GitHub Pages deployed!</title>
-          </head>
-          <body>
-            <p>GitHub Pages with <strong>${{ github.sha }}</strong> commit ID has been deployed through <a href="https://github.com/marketplace/actions/github-pages">GitHub Pages action</a> successfully.</p>
-          </body>
-        </html>
-        EOL
+    - name: Node install
+      uses: actions/setup-node@v2.4.0
+      with:
+        node-version: '16'
+    - run: npm install markmap-cli
 
-    - name: Deploy to GitHub Pages
+    - name: Build mind map
+      run: |
+        npm exec -- markmap-cli --no-open --no-toolbar mindmap.md -o docs/mindmap.html
+
+    - name: Push to github-pages
       if: success()
       uses: crazy-max/ghaction-github-pages@v2
       with:
