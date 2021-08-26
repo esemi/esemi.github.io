@@ -3,12 +3,18 @@
 ## Done
 - ~~[python alternative async](https://github.com/python-trio/trio)~~
 - ~~update esemi.io pages~~
-- 
+
+#### gist recycle
+- ~~hide relocation.md~~
+- ~~show hiring Q/A~~
+
+ 
 ## In progress
 - weekly lessons
-#### gist recycle
-- hide relocation.md
-- show hiring Q/A
+
+### github
+- esemi.io update design by templates from gh-pages
+
 
 ## Soft-skills
 
@@ -17,7 +23,7 @@
 
 ### TL 
 - [interns](https://habr.com/ru/company/raiffeisenbank/blog/526342/)
-- [TODO](https://tlroadmap.io/guide.html#%D0%B4%D0%BB%D1%8F-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F)
+- [roadmap](https://tlroadmap.io/guide.html#%D0%B4%D0%BB%D1%8F-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F) TODOs needed
 
 
 ## Hard-skills
@@ -81,5 +87,4 @@
 - update linkedin [profile](https://www.linkedin.com/in/esemi/)
 
 ### github
-- esemi.io update design by templates from gh-pages
-- recycle repos and pins
+- recycle repos and pins (TODOs needed)
