@@ -12,9 +12,6 @@
 ## In progress
 - weekly lessons
 
-### github
-- esemi.io update design by templates from gh-pages
-
 
 ## Soft-skills
 
@@ -87,4 +84,5 @@
 - update linkedin [profile](https://www.linkedin.com/in/esemi/)
 
 ### github
+- move NS of esemi.ru to github
 - recycle repos and pins (TODOs needed)
