@@ -25,9 +25,19 @@
 - ~~<https://github.com/esemi/mels> readme + archive~~
 - ~~<https://github.com/esemi/humans-txt-analisys> readme + archive~~
 - ~~<https://github.com/esemi/webfonts_parser> archive + readme~~
+- ~~<https://github.com/esemi/torents_feed> archive and freeze~~
+- ~~<https://github.com/esemi/ibtax_web_ui> archive + readme~~
+- ~~<https://github.com/esemi/crypto_trading_next_gen> readme + archive~~
+- ~~<https://github.com/esemi/dseyenew> readme + link~~
+- ~~<https://github.com/esemi/dsbot> readme + link~~
+- ~~<https://github.com/esemi/pub-list> readme + link + archive~~
+
  
 ## In progress
 - weekly lessons
+
+### Projects
+- pyppeter + actions for JanMarko
 
 
 ## Soft-skills
@@ -88,6 +98,7 @@
 - clearing of DO droplet
 - github action for <https://markmap.js.org/docs/#markmap-cli>
 - [porngraph](https://pgraph.esemi.ru/) design and public
+- <https://github.com/esemi/ibtax_web_ui>
 - граф участников фильма {кто с кем снимается, кто кого снимает, какие сценаристы работали с большим количеством режисёров, имдб?}
 - граф актёров {кто с кем снимается (по порнороликам)}
 - слежка за FoMO тикерами с реддита и ростом упоминаний {вероятно памп, по коням!}
@@ -114,16 +125,10 @@
 - <https://github.com/esemi/ya-local-graph> update requirements + archive + disable bot + pin (r&d)
 - <https://github.com/esemi/github-activity-visualiser> update requirements + disable bot + pin (tool)
 - <https://github.com/esemi/travian-manager> readme update requirements + disable bot + archive
-- <https://github.com/esemi/torents_feed> archive and freeze
-- <https://github.com/esemi/ibtax_web_ui> archive + readme
 - <https://github.com/esemi/python_intern> readme + link
-- <https://github.com/esemi/crypto_trading_next_gen> readme + archive
-- <https://github.com/esemi/dseyenew> readme + link
 - <https://github.com/esemi/pornhub-anon> readme for concept + rm code + archive
-- <https://github.com/esemi/dsbot> readme + link + archive
 - <https://github.com/esemi/prtscn-mnr> readme + archive
 - <https://github.com/esemi/utils.esemi.ru> split with previous & rm
-- <https://github.com/esemi/pub-list> readme + link + archive
 - <https://github.com/esemi/large-graph-tile-engine> readme + archive
 - <https://github.com/esemi/russian-ai-cup-2016> readme + archive
 - <https://github.com/esemi/russianaicup-2014> readme + archive
