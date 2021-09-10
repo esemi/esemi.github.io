@@ -37,7 +37,7 @@
 - weekly lessons
 
 ### Projects
-- pyppeter + actions for JanMarko
+- [JanMarko testing](https://github.com/esemi/reimagined-winner)
 
 
 ## Soft-skills
@@ -95,6 +95,7 @@
 - prom
 
 ## Projects
+- <https://github.com/marketplace/actions/allure-report-simple> publish report to gh-pages and readme
 - clearing of DO droplet
 - github action for <https://markmap.js.org/docs/#markmap-cli>
 - [porngraph](https://pgraph.esemi.ru/) design and public
