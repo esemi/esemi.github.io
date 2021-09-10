@@ -31,6 +31,11 @@
 - ~~<https://github.com/esemi/dseyenew> readme + link~~
 - ~~<https://github.com/esemi/dsbot> readme + link~~
 - ~~<https://github.com/esemi/pub-list> readme + link + archive~~
+- ~~<https://github.com/esemi/russianaicup-2014> readme + archive~~
+- ~~<https://github.com/esemi/russian-ai-cup-2016> readme + archive~~
+- ~~<https://github.com/esemi/large-graph-tile-engine> readme + archive~~
+- ~~<https://github.com/esemi/pornhub-anon> readme for concept + rm code + archive~~
+- ~~<https://github.com/esemi/python_intern> readme + link~~
 
  
 ## In progress
@@ -95,8 +100,8 @@
 - prom
 
 ## Projects
-- <https://github.com/marketplace/actions/allure-report-simple> publish report to gh-pages and readme
 - clearing of DO droplet
+- <https://github.com/marketplace/actions/allure-report-simple> publish report to gh-pages and readme
 - github action for <https://markmap.js.org/docs/#markmap-cli>
 - [porngraph](https://pgraph.esemi.ru/) design and public
 - <https://github.com/esemi/ibtax_web_ui>
@@ -119,17 +124,15 @@
 
 #### recycle repos
 - <https://github.com/esemi/esemi.github.io> readme with link + rm unused links
+- 
 - <https://github.com/esemi/t_j-feed> pin (webapp)
 - <https://github.com/esemi/vigilant-chainsaw> убрать todo + archive + pin (console tool)
 - <https://github.com/esemi/shiny-octo-spork> show-code-mode + pypi + badges + pin (crawling)
 - <https://github.com/esemi/pornhub-graph> readme + link + update requirements + pin (project)
 - <https://github.com/esemi/ya-local-graph> update requirements + archive + disable bot + pin (r&d)
 - <https://github.com/esemi/github-activity-visualiser> update requirements + disable bot + pin (tool)
-- <https://github.com/esemi/travian-manager> readme update requirements + disable bot + archive
-- <https://github.com/esemi/python_intern> readme + link
-- <https://github.com/esemi/pornhub-anon> readme for concept + rm code + archive
+
 - <https://github.com/esemi/prtscn-mnr> readme + archive
 - <https://github.com/esemi/utils.esemi.ru> split with previous & rm
-- <https://github.com/esemi/large-graph-tile-engine> readme + archive
-- <https://github.com/esemi/russian-ai-cup-2016> readme + archive
-- <https://github.com/esemi/russianaicup-2014> readme + archive
+- <https://github.com/esemi/travian-manager> readme update requirements + disable bot + archive
+
