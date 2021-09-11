@@ -40,6 +40,7 @@
 - ~~<https://github.com/esemi/prtscn-mnr> readme + archive~~
 - ~~<https://github.com/esemi/travian-manager> readme~~
 - ~~<https://github.com/esemi/t_j-feed> pin (webapp)~~
+- ~~<https://github.com/esemi/github-activity-visualiser>~~
 
  
 ## In progress
@@ -132,4 +133,6 @@
 - <https://github.com/esemi/shiny-octo-spork> show-code-mode + pypi + badges + pin (crawling)
 - <https://github.com/esemi/pornhub-graph> readme + link + update requirements + pin (project)
 - <https://github.com/esemi/ya-local-graph> update requirements + archive + disable bot + pin (r&d)
-- <https://github.com/esemi/github-activity-visualiser> update requirements + disable bot + pin (tool)
+- <https://github.com/esemi?tab=repositories&q=&type=private&language=&sort=>
+
+
