@@ -44,7 +44,7 @@
 - ~~<https://github.com/esemi/vigilant-chainsaw> убрать todo + archive + pin (console tool)~~
 - ~~<https://github.com/esemi/ya-local-graph> update requirements + archive + disable bot + pin (r&d)~~
 - ~~<https://github.com/esemi/shiny-octo-spork> show-code-mode + pypi + badges~~
- 
+- ~~<https://github.com/esemi/pornhub-graph> readme + link + update requirements + pin (project)~~
 
 ## Soft-skills
 
@@ -104,7 +104,7 @@
 - clearing of DO droplet
 - <https://github.com/marketplace/actions/allure-report-simple> publish report to gh-pages and readme
 - github action for <https://markmap.js.org/docs/#markmap-cli>
-- [porngraph](https://pgraph.esemi.ru/) design and public
+- [porngraph](https://pgraph.esemi.ru/) design and post
 - <https://github.com/esemi/ibtax_web_ui>
 - граф участников фильма {кто с кем снимается, кто кого снимает, какие сценаристы работали с большим количеством режисёров, имдб?}
 - граф актёров {кто с кем снимается (по порнороликам)}
@@ -126,7 +126,6 @@
 #### recycle repos
 - <https://github.com/esemi/esemi.github.io> readme with link + rm unused links
 - <https://github.com/esemi?tab=repositories&q=&type=private&language=&sort=>
-- <https://github.com/esemi/pornhub-graph> readme + link + update requirements + pin (project)
 
 
 ## In progress
