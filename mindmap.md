@@ -102,11 +102,11 @@
 
 ## Projects
 - clearing of DO droplet
+- stock-quotes simple API (googlefinance didnt working with LON:EIMI =( )
 - <https://github.com/marketplace/actions/allure-report-simple> publish report to gh-pages and readme
 - github action for <https://markmap.js.org/docs/#markmap-cli>
 - [porngraph](https://pgraph.esemi.ru/) design and post
 - <https://github.com/esemi/ibtax_web_ui>
-- граф участников фильма {кто с кем снимается, кто кого снимает, какие сценаристы работали с большим количеством режисёров, имдб?}
 - граф актёров {кто с кем снимается (по порнороликам)}
 - слежка за FoMO тикерами с реддита и ростом упоминаний {вероятно памп, по коням!}
 
@@ -131,3 +131,4 @@
 ## In progress
 - english weekly
 - [JanMarko testing](https://github.com/esemi/reimagined-winner)
+- [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1) {кто с кем снимается, кто кого снимает, какие сценаристы работали с большим количеством режисёров, имдб?}
