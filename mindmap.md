@@ -83,6 +83,7 @@
 - N+1 problem
 - CAP theorem
 - <https://neo4j.com/>
+- <https://oss.redis.com/redisgraph/>
 
 ### MQ
 - <https://www.rabbitmq.com/>
@@ -101,11 +102,12 @@
 - prom
 
 ## Projects
-- clearing of DO droplet
 - invest report to pages
+- clearing of DO droplet
+- [porngraph](https://pgraph.esemi.ru/) design and post
 - <https://github.com/marketplace/actions/allure-report-simple> publish report to gh-pages and readme
 - github action for <https://markmap.js.org/docs/#markmap-cli>
-- [porngraph](https://pgraph.esemi.ru/) design and post
+- moex_api_client lib for Rust <https://iss.moex.com/iss/reference/>
 - <https://github.com/esemi/ibtax_web_ui>
 - граф актёров {кто с кем снимается (по порнороликам)}
 - слежка за FoMO тикерами с реддита и ростом упоминаний {вероятно памп, по коням!}
@@ -119,6 +121,7 @@
 - update eng-CV
 - proofreading eng-CV
 - update linkedin [profile](https://www.linkedin.com/in/esemi/)
+- update Djinni.co profile
 - update medium [profile](https://medium.com/@esemiko)
 
 ### github
