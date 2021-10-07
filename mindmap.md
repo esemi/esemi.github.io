@@ -98,10 +98,11 @@
 - [вариантность](https://habr.com/ru/post/218753/)
 
 ### devops
-- DO deploy with k8s
+- DO with k8s
 - prom
 
 ## Projects
+- [stock-quotes simple API](https://github.com/esemi/glowing-octo-broccoli) (googlefinance does not working with LON:EIMI)
 - invest report to pages
 - clearing of DO droplet
 - [porngraph](https://pgraph.esemi.ru/) design and post
@@ -135,5 +136,4 @@
 ## In progress
 - english weekly
 - [JanMarko testing](https://github.com/esemi/reimagined-winner)
-- [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1) {кто с кем снимается, кто кого снимает, какие сценаристы работали с большим количеством режисёров, имдб?}
-- [stock-quotes simple API](https://github.com/esemi/glowing-octo-broccoli) (googlefinance does not working with LON:EIMI =( )
+- [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
