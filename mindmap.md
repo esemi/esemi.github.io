@@ -1,4 +1,4 @@
-# Simple mindmap for periodic refreshing 
+# Mind-map
 
 ## Done
 - ~~[python alternative async](https://github.com/python-trio/trio)~~
@@ -46,13 +46,24 @@
 - ~~<https://github.com/esemi/shiny-octo-spork> show-code-mode + pypi + badges~~
 - ~~<https://github.com/esemi/pornhub-graph> readme + link + update requirements + pin (project)~~
 
+### манагерство
+- read <https://vas3k.club/post/5442/>
+
 ## Soft-skills
 
 ### english
 - daily lessons
 
-### TL 
+
+### манагерство
+- <https://vas3k.club/post/10116/>
 - [interns](https://habr.com/ru/company/raiffeisenbank/blog/526342/)
+- Роман об управлением проектами  
+- Психбольница в руках пациентов
+- Черный лебедь Талеба
+- Мифический человеко-месяц
+- Проект Феникс
+- Простите, я разрушил вашу компанию
 - [tlroadmap](https://tlroadmap.io/guide.html#%D0%B4%D0%BB%D1%8F-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F) TODOs needed
 
 
@@ -83,7 +94,9 @@
 - N+1 problem
 - CAP theorem
 - <https://neo4j.com/>
+- <https://janusgraph.org/>
 - <https://oss.redis.com/redisgraph/>
+- CH
 
 ### MQ
 - <https://www.rabbitmq.com/>
@@ -127,13 +140,14 @@
 
 ### github
 - move NS of esemi.ru to github
-
-#### recycle repos
 - <https://github.com/esemi/esemi.github.io> readme with link + rm unused links
 - <https://github.com/esemi/childrens_fairy_tales>
+- sponsorship setup
 
+## Blocked
+- [JanMarko testing](https://github.com/esemi/reimagined-winner)
 
 ## In progress
 - english weekly
-- [JanMarko testing](https://github.com/esemi/reimagined-winner)
 - [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
+- <https://vas3k.club/post/8669/>
