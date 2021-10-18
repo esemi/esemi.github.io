@@ -47,7 +47,9 @@
 - ~~<https://github.com/esemi/pornhub-graph> readme + link + update requirements + pin (project)~~
 
 ### манагерство
-- read <https://vas3k.club/post/5442/>
+- ~~read <https://vas3k.club/post/5442/>~~
+- ~~read <https://vas3k.club/post/8669/>~~
+
 
 ## Soft-skills
 
@@ -56,7 +58,6 @@
 
 
 ### манагерство
-- <https://vas3k.club/post/10116/>
 - [interns](https://habr.com/ru/company/raiffeisenbank/blog/526342/)
 - Роман об управлением проектами  
 - Психбольница в руках пациентов
@@ -64,6 +65,8 @@
 - Мифический человеко-месяц
 - Проект Феникс
 - Простите, я разрушил вашу компанию
+- разные техники оценки проектов и способен объяснить разницу. Story point / человекочасы / PERT / уверенность к дате / футболки и все остальное
+- фазы формирования команды Storming-norming-performing
 - [tlroadmap](https://tlroadmap.io/guide.html#%D0%B4%D0%BB%D1%8F-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F) TODOs needed
 
 
@@ -150,4 +153,4 @@
 ## In progress
 - english weekly
 - [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
-- <https://vas3k.club/post/8669/>
+- read <https://vas3k.club/post/10116/>
