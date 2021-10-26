@@ -1,6 +1,6 @@
-# Mind-map
+# [PDP](https://www.mindtools.com/courses/lnV924x0/PersonalDevelopmentPlanning.pdf)
 
-## Soft-skills
+## Soft
 
 ### english
 - daily lessons
@@ -88,17 +88,18 @@
 - update eng-CV
 - proofreading eng-CV
 - update linkedin [profile](https://www.linkedin.com/in/esemi/)
+- update <https://angel.co/>
 - update Djinni.co profile
 - update medium [profile](https://medium.com/@esemiko)
 
 ### github
-- move NS of esemi.ru to github
 - <https://github.com/esemi/esemi.github.io> readme with link + rm unused links
 - <https://github.com/esemi/childrens_fairy_tales>
 - sponsorship setup
 
 ## Blocked
 - [JanMarko testing](https://github.com/esemi/reimagined-winner)
+- [gyre](http://gyre.tv/)
 
 ## In progress
 - english weekly
