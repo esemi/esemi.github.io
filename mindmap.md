@@ -99,9 +99,10 @@
 
 ## Blocked
 - [JanMarko testing](https://github.com/esemi/reimagined-winner)
-- [gyre](http://gyre.tv/)
 
 ## In progress
+- [gyre](http://gyre.tv/)
+- read <https://neo4j.com/developer/cypher/>
 - english weekly
 - [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
 - read <https://vas3k.club/post/10116/> + compile
