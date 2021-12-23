@@ -42,6 +42,7 @@
 - [ACID + transactions](https://postgrespro.ru/docs/postgrespro/10/tutorial-transactions)
 - [postgres MVCC](https://habr.com/ru/company/postgrespro/blog/442804/)
 - [postgres mistakes](https://habr.com/ru/company/postgrespro/blog/443792/)
+- <https://use-the-index-luke.com/sql/anatomy/the-tree>
 - книжка с кабанчиком
 - N+1 problem
 - CAP theorem
@@ -103,4 +104,4 @@
 ## In progress
 - [gyre](http://gyre.tv/)
 - [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
-- read <https://neo4j.com/developer/cypher/>
+- <https://neo4j.com/developer/cypher/>
