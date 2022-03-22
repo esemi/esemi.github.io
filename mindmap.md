@@ -60,6 +60,7 @@
 ### Python
 - [python sets](https://habr.com/ru/post/516858/)
 - <https://github.com/tiangolo/sqlmodel>
+- <https://github.com/coleifer/huey>
 - [FP](https://habr.com/ru/post/505928/)
 - [вариантность](https://habr.com/ru/post/218753/)
 
@@ -69,6 +70,8 @@
 - prom
 
 ## Projects
+- <https://github.com/cdump/investments#%D1%83%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D0%B0-ibdds> adopt for 2021 <https://github.com/KonishchevDmitry/investments/blob/master/docs/taxes.md#%D0%BE%D1%82%D0%BA%D1%83%D0%B4%D0%B0-%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E-%D0%BE-%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8-%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2-%D0%B8-%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%B8%D0%BD%D1%8B%D1%85-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D1%85-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BE%D0%B2>
+- <https://github.com/iamsinghrajat/async-cache> add enabled setting for cache class
 - [stock-quotes simple API](https://github.com/esemi/glowing-octo-broccoli) (googlefinance does not working with LON:EIMI)
 - invest report to pages
 - clearing of DO droplet
@@ -77,9 +80,9 @@
 - github action for <https://markmap.js.org/docs/#markmap-cli>
 - moex_api_client lib for Rust <https://iss.moex.com/iss/reference/>
 - <https://github.com/esemi/ibtax_web_ui>
-- граф актёров {кто с кем снимается (по порнороликам)}
 - слежка за FoMO тикерами с реддита и ростом упоминаний {вероятно памп, по коням!}
 - github backups
+- [gyre](http://gyre.tv/)
 
 ## Public relations
 
@@ -96,12 +99,11 @@
 ### github
 - <https://github.com/esemi/esemi.github.io> readme with link + rm unused links
 - <https://github.com/esemi/childrens_fairy_tales>
-- sponsorship setup
 
 ## Blocked
 - english weekly
 
 ## In progress
-- [gyre](http://gyre.tv/)
 - [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
 - <https://neo4j.com/developer/cypher/>
+- fin-pillow
