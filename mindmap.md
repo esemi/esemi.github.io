@@ -9,7 +9,7 @@
 ### манагерство
 - [interns](https://habr.com/ru/company/raiffeisenbank/blog/526342/)
 - Роман об управлением проектами  
-- Психбольница в руках пациентов
+- Психбольница, 0 в руках пациентов
 - Черный лебедь Талеба
 - Мифический человеко-месяц
 - Проект Феникс
@@ -37,6 +37,7 @@
 - FSM
 - JWT
 - OAuth
+- [грокаем](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-139296295/?sh=HblkVay-Mg)
 
 ### DB
 - [ACID + transactions](https://postgrespro.ru/docs/postgrespro/10/tutorial-transactions)
@@ -66,23 +67,18 @@
 
 ### devops
 - <https://free-for.dev/#/> compile
-- DO with k8s
 - prom
 
 ## Projects
 - <https://github.com/cdump/investments#%D1%83%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D0%B0-ibdds> adopt for 2021 <https://github.com/KonishchevDmitry/investments/blob/master/docs/taxes.md#%D0%BE%D1%82%D0%BA%D1%83%D0%B4%D0%B0-%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E-%D0%BE-%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8-%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2-%D0%B8-%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%B8%D0%BD%D1%8B%D1%85-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D1%85-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BE%D0%B2>
 - <https://github.com/iamsinghrajat/async-cache> add enabled setting for cache class
-- [stock-quotes simple API](https://github.com/esemi/glowing-octo-broccoli) (googlefinance does not working with LON:EIMI)
 - invest report to pages
-- clearing of DO droplet
-- [porngraph](https://pgraph.esemi.ru/) design and post
 - <https://github.com/marketplace/actions/allure-report-simple> publish report to gh-pages and readme
 - github action for <https://markmap.js.org/docs/#markmap-cli>
 - moex_api_client lib for Rust <https://iss.moex.com/iss/reference/>
 - <https://github.com/esemi/ibtax_web_ui>
 - слежка за FoMO тикерами с реддита и ростом упоминаний {вероятно памп, по коням!}
 - github backups
-- [gyre](http://gyre.tv/)
 
 ## Public relations
 
@@ -93,17 +89,18 @@
 - proofreading eng-CV
 - update linkedin [profile](https://www.linkedin.com/in/esemi/)
 - update <https://angel.co/>
-- update Djinni.co profile
 - update medium [profile](https://medium.com/@esemiko)
 
 ### github
-- <https://github.com/esemi/esemi.github.io> readme with link + rm unused links
 - <https://github.com/esemi/childrens_fairy_tales>
 
 ## Blocked
 - english weekly
-
-## In progress
 - [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
 - <https://neo4j.com/developer/cypher/>
-- fin-pillow
+
+## In progress
+- <https://github.com/esemi/esemi.github.io> readme with link + rm unused links
+- cleaning DO droplet
+- canyon notifier tlg
+- [gyre](http://gyre.tv/) alpha version
