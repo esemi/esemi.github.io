@@ -87,7 +87,6 @@
 - update eng-CV
 - proofreading eng-CV
 - update linkedin [profile](https://www.linkedin.com/in/esemi/)
-- update <https://angel.co/>
 - update medium [profile](https://medium.com/@esemiko)
 
 ### github
