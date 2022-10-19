@@ -9,14 +9,13 @@
 ### манагерство
 - [interns](https://habr.com/ru/company/raiffeisenbank/blog/526342/)
 - Роман об управлением проектами  
-- Психбольница, 0 в руках пациентов
+- Психбольница, в руках пациентов
 - Черный лебедь Талеба
 - Мифический человеко-месяц
 - Проект Феникс
 - "Простите, я разрушил вашу компанию"
 - разные техники оценки проектов и способен объяснить разницу. Story point / человекочасы / PERT / уверенность к дате / футболки и все остальное
 - фазы формирования команды Storming-norming-performing
-- [tlroadmap](https://tlroadmap.io/guide.html#%D0%B4%D0%BB%D1%8F-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F) TODOs needed
 
 
 ## Hard-skills
@@ -40,14 +39,10 @@
 - [грокаем](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-139296295/?sh=HblkVay-Mg)
 
 ### DB
-- [ACID + transactions](https://postgrespro.ru/docs/postgrespro/10/tutorial-transactions)
-- [postgres MVCC](https://habr.com/ru/company/postgrespro/blog/442804/)
-- [postgres mistakes](https://habr.com/ru/company/postgrespro/blog/443792/)
-- <https://use-the-index-luke.com/sql/anatomy/the-tree>
+- <https://neo4j.com/developer/cypher/>
 - книжка с кабанчиком
 - N+1 problem
 - CAP theorem
-- <https://neo4j.com/>
 - <https://janusgraph.org/>
 - <https://oss.redis.com/redisgraph/>
 - CH
@@ -70,13 +65,11 @@
 - prom
 
 ## Projects
-- <https://github.com/cdump/investments#%D1%83%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D0%B0-ibdds> adopt for 2021 <https://github.com/KonishchevDmitry/investments/blob/master/docs/taxes.md#%D0%BE%D1%82%D0%BA%D1%83%D0%B4%D0%B0-%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E-%D0%BE-%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8-%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2-%D0%B8-%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%B8%D0%BD%D1%8B%D1%85-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D1%85-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BE%D0%B2>
+- [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
+- <https://github.com/esemi/pub-list>
 - invest report to pages
-- <https://github.com/marketplace/actions/allure-report-simple> publish report to gh-pages and readme
-- github action for <https://markmap.js.org/docs/#markmap-cli>
-- <https://github.com/esemi/ibtax_web_ui>
-- слежка за FoMO тикерами с реддита и ростом упоминаний {вероятно памп, по коням!}
 - github backups
+- <https://github.com/esemi/ibtax_web_ui>
 - python client for <https://github.com/Formicka/exchangerate.host>
 
 ## Public relations
@@ -93,10 +86,8 @@
 - <https://github.com/esemi/childrens_fairy_tales>
 
 ## Blocked
-- [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
-- <https://neo4j.com/developer/cypher/>
 
 ## In progress
+- gyre alpha version
 - canyon notifier tlg
-- [gyre](http://gyre.tv/) alpha version
-- <https://github.com/esemi/pub-list>
+- from prague - тележный бот над агрегатором лоукостеров (решает делему куда бы ливнуть на этой или следующей неделе)
