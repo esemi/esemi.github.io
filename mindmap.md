@@ -34,7 +34,6 @@
 - event sourcing
 - actors
 - FSM
-- JWT
 - OAuth
 - [грокаем](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-139296295/?sh=HblkVay-Mg)
 
@@ -75,11 +74,12 @@
 ## Public relations
 
 ### Social
-- update rus-CV
-- дать на вычитку рекрутёрам
-- update [habr profile](https://career.habr.com/esemi)
-- translate to eng-CV
+- update CV
 - proofreading eng-version
+- proofreading by vas3k.club
+- proofreading M.
+- update [habr profile](https://career.habr.com/esemi)
+- update homepage
 - update linkedin [profile](https://www.linkedin.com/in/esemi/)
 
 ### github

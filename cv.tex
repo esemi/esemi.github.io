@@ -87,6 +87,10 @@
 
 \end{tabular*}
 
+% TODO не слишком ли перекос в сторону бизнеса и импакта? Как то без техники совсем грустно =(
+% TODO нужно ли добавить описание компаний
+% TODO не нужно ли поменять местами название компании с тайтлом воркера?
+% TODO не пестрит ли в глазах от форматирования на всей странице?
 %-----------EXPERIENCE-----------------
 \vspace{-5pt}
 \section{Experience}
@@ -96,12 +100,12 @@
     \resumeItemListStart
         \resumeItem{Rebuild the data collection system}
         {Supported a 50x growth in user base and streams.}
-        \resumeItem{Moved part of the infrastructure to another service provider}
+        \resumeItem{Moved part of the infrastructure to another hosting provider}
         {Reduced servers expenses by 44\%.}
         \resumeItem{Tuned the development process}
         {Introduced a unified kanban board with formalised user-stories.}
         \resumeItem{Released the first version of the service}
-        {From POC to production-ready version with live customers.}
+        {From POC to production-ready service with live customers.}
     \resumeItemListEnd
 
     \vspace{5pt}
@@ -109,9 +113,14 @@
     \resumeSubheading{Semrush Inc.}{Prague, Czech Republic}
     {Software Developer at collaboration project}{Winter 2022 - Present}
     \resumeItemListStart
-    %------------------------------TODO
-        \resumeItem{TODO}
-        {TODO.}
+        \resumeItem{Improved the on-boarding process for new teammates}
+        {Updated project documentation, consolidated coding standards through linters and automated all manual activities through CI/CD.}
+        \resumeItem{Standardised tasks for integration with other teams}
+        {Accelerated new integration's into our service.}
+        \resumeItem{Implemented a new access distribution model for corporate clients}
+        {Made the user experience in our tool much simpler for 30\% of users.}
+        \resumeItem{Did extensive research on Zapier-like services}
+        {Became clear how current integrations with 3rd-party tools could be built on.}
     \resumeItemListEnd
 
     \vspace{5pt}
@@ -149,41 +158,60 @@
 \resumeSubHeadingListEnd
 \vspace{-5pt}
 
+
 %-----------EDUCATION-----------------
 \section{Education}
-  \resumeSubHeadingListStart
-    \resumeSubheading
-      {Netaji Subhash Engineering College}{Kolkata, India}
-      {Bachelor of Technology - Information Technology;  GPA: 7.27}{July 2016 - June 2020}
-      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Courses:} Operating Systems, Data Structures, Analysis Of Algorithms, Artificial Intelligence, Machine Learning, Networking, Databases}}}
+    \resumeSubHeadingListStart
+        \resumeSubheading
+        {University Information Technologies, Mechanic and Optics (University ITMO)}{St. Petersburg, Russia}
+        {Specialist Degree in Information Systems and Technology}{September 2006 - May 2012}
     \resumeSubHeadingListEnd
+\vspace{-5pt}
 
 %-----------PROJECTS-----------------
-\vspace{-5pt}
+% TODO нужно ли в проекты впихивать рабочие проекты? Или лучше описать их в контексте описания места работы?
+% TODO нужно ли добавить ссылки на статьи/сервисы, если они на русском (сервисы)?
+% TODO на чём должен быть фокус в описании проекта - что сделал или зачем проект нужен и какую проблему решает?
 \section{Projects}
-\resumeSubHeadingListStart
-\resumeSubItem{Vison - multimedia search engine (NLP, Search Engine, Web Crawlers, Multimedia Processing)}{(Work in progress) Research oriented, open source, search engine for bringing reverse multimedia search to small \& mid scale enterprises. Tech: Python, NodeJS, Intel OpenVino Toolkit, Selenium, TensorFlow (October '18)}
-\vspace{2pt}
-\resumeSubItem{Reinforcement Learning based Traffic Control System (Reinforcement Learning, Computer Vision)}{AI model to resolve city traffic around 50\%
-faster. Tech: Python, Alibaba Cloud, Raspberry Pi, Arduino, SUMO \& OpenCV. (August '18)}
-\vspace{2pt}
-\resumeSubItem{Panorama from Satellite Imagery using Distributed Computing (Distributed Computing, Image Processing)}{Images clicked using drones, provided by ISRO were stitched together using distributed public compute nodes, effectively bringing down processing time exponentially. Tech: PHP, C++, Java, Python (March '18)}
-\vspace{2pt}
-\resumeSubItem{Drag-n-drop machine learning learning environment (Web Development, Machine Learning)}{Scratch like tool for implementing machine learning pipelines along with built in tutorial for each concept. Tech: Python, JavaScript (September '18)}
-\vspace{2pt}
-\resumeSubItem{Search Engine and Social Network(Web Development, Web Crawler, Search)}{Created from scratch a social network and a search engine based on the idea of integrating Facebook and Google. The launched website was among top 1000 websites in India during 2012-2013. Tech: PHP, MySQL, HTML, CSS, WebSockets, JavaScript, RSS, XML ( May '12)}
+    \resumeSubHeadingListStart
+
+    \resumeSubItem{IMDB Visualiser (Visualisation, Graph Theory)}{TODO. Tech: golang, Javascript. (work in progress)}
+    \vspace{2pt}
+
+    \resumeSubItem{Tax Calculator Tool (Investing, Taxes, CLI-tools)}{TODO. Tech: Python, Pandas. (May '22)}
+    \vspace{2pt}
+
+    \resumeSubItem{Investment portfolio management tool (Investing, CLI-tools)}{Portfolio management software based on reports from five brokerages. Tech: Scala, Javascript, XPath. (April '21)}
+    \vspace{2pt}
+
+    \resumeSubItem{Crypto Arbitrage Bot (Cryptocurrency, Trading)}{The bots looked for exchange rate discrepancies between cryptocurrency exchanges and placed orders for profit. Tech: Python, Redis, Aiohttp, lxml. (June '20)}
+    \vspace{2pt}
+
+    \resumeSubItem{Dating Search Face (Crawlers, Search Engine, Face Detection, Face Recognition)}{A system to find a person by facial image from tinder.com users. Tech: Python, Redis, AWS, OpenCV, Scikit, FFmpeg, Dlib. (March '19)}
+    \vspace{2pt}
+
+    \resumeSubItem{Adult Movies Graph (Crawlers, Visualisation, Graph Theory, Web Services)}{An interactive graph of pornhub.com clips based on backlinks. Tech: Python, Javascript, lxml, Puppeteer, Mongodb, Sigma.js, Gephi. (July '18)}
+    \vspace{2pt}
+
+    \resumeSubItem{Musicians Clusterisation (Crawlers, Music, Research)}{Research into the overlap of music genres and musicians on the Yandex.Music (Spotify-like service). Tech: Python, Selenium, lxml, Igraph (November '17)}
+    \vspace{2pt}
+
+    \resumeSubItem{Travian Bot (Browser Automation, Gaming)}{Bot to automate most of the daily tasks in Travian online-game. Tech: Python, Selenium, lxml (February '17)}
+    \vspace{2pt}
+
+    \resumeSubItem{DSeye - An analytics system for online-game (Crawlers, Visualisation, Web Services, Gaming)}{Collect and display metrics for all players on the MMORTS Destiny Sphere. Tech: PHP, Python, Mysql. (January '14)}
+
 \resumeSubHeadingListEnd
 \vspace{-5pt}
 
 %-----------SKILLS-----------------
-\section{Skills Summary}
+% TODO список базвордов бесит, конечно. Хочется его уменьшить
+\section{Skills Summary} TODO
 	\resumeSubHeadingListStart
-	\resumeSubItem{Languages}{~~~~~~Python, PHP, C++, JavaScript, SQL, Bash, JAVA}
-	\resumeSubItem{Frameworks}{~~~~Scikit, NLTK, SpaCy, TensorFlow, Keras, Django, Flask, NodeJS, LAMP}
-	\resumeSubItem{Tools}{~~~~~~~~~~~~~~Kubernetes, Docker, GIT, PostgreSQL, MySQL, SQLite}
-	\resumeSubItem{Platforms}{~~~~~~~Linux, Web, Windows, Arduino, Raspberry, AWS, GCP, Alibaba Cloud, IBM Cloud}
-	\resumeSubItem{Soft Skills}{~~~~~~~Leadership, Event Management, Writing, Public Speaking, Time Management}
-
+	\resumeSubItem{Languages}{~~~~~~Python, SQL, PHP, Rust}
+	\resumeSubItem{Tools}{~~~~~~~~~~~~~~FastAPI, Starlette, Flask, Bottle, SQLAlchemy, Peewee, Pytest, Poetry}
+	\resumeSubItem{Data}{~~~~~~~~~~~~~~~Postgresql, Redis, Mysql, Mongodb, Neo4j}
+	\resumeSubItem{Infrastructure}{~Kubernetes, Helm, Docker, GCP, Gitlab CI, Github Actions}
 \resumeSubHeadingListEnd
 
 \end{document}
