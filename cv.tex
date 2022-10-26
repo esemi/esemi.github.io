@@ -1,0 +1,189 @@
+%------------------------
+% Resume Template
+% Author : Anubhav Singh
+% Github : https://github.com/xprilion
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Simon Efremov}} & Email: \href{mailto:esemiko@gmail.com}{esemiko@gmail.com}\\
+  \href{https://github.com/esemi}{Github: ~~github.com/esemi} & Mobile:~~~+420-604-872-966 \\
+  \href{https://www.linkedin.com/in/esemi/}{Linkedin: linkedin.com/in/esemi} & Prague, Czech Republic \\
+
+
+\end{tabular*}
+
+%-----------EXPERIENCE-----------------
+\vspace{-5pt}
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Gyre TV}{Remote}
+    {Chief Technology Officer}{Fall 2021 - Present}
+    \resumeItemListStart
+        \resumeItem{Rebuild the data collection system}
+        {Supported a 50x growth in user base and streams.}
+        \resumeItem{Moved part of the infrastructure to another service provider}
+        {Reduced servers expenses by 44\%.}
+        \resumeItem{Tuned the development process}
+        {Introduced a unified kanban board with formalised user-stories.}
+        \resumeItem{Released the first version of the service}
+        {From POC to production-ready version with live customers.}
+    \resumeItemListEnd
+
+    \vspace{5pt}
+
+    \resumeSubheading{Semrush Inc.}{Prague, Czech Republic}
+    {Software Developer at collaboration project}{Winter 2022 - Present}
+    \resumeItemListStart
+    %------------------------------TODO
+        \resumeItem{TODO}
+        {TODO.}
+    \resumeItemListEnd
+
+    \vspace{5pt}
+
+    \resumeSubheading{Mobile Apps Studio}{Remote}
+    {Software Developer at wellness mobile app}{Summer 2022}
+    \resumeItemListStart
+        \resumeItem{Developed and implemented backend wellness applications for iOS and Android}
+        {Engaged the first 500 users in closed alpha testing.}
+        \resumeItem{Implemented natural language processing of user requests}
+        {Transcription quality increased by 37\% (as rated by customers).}
+    \resumeItemListEnd
+
+    \vspace{5pt}
+
+    \resumeSubheading{Semrush Inc.}{Prague, Czech Republic}
+    {Tech lead at billing platform}{Summer 2020 - Winter 2022}
+    \resumeItemListStart
+        \resumeItem{Adopted a change in the sales model for our SaaS}
+        {Designed and implemented the POC of the new subscription system.}
+        \resumeItem{Migrated the team's services to the cloud infrastructure}
+        {Reduced infrastructure expenses by 60\%.}
+        \resumeItem{Supported the expansion of the team}
+        {Recruited and integrated 5 colleagues, which increased the productivity of the team exponentially.}
+    \resumeItemListEnd
+
+    \vspace{5pt}
+
+    \resumeSubheading{Different companies}{St. Petersburg, Russia}
+    {Software Developer}{Summer 2008 - Summer 2020}
+    \resumeItemListStart
+        \resumeItemWithoutTitle
+        {Previous experiences are accessible by request.}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Netaji Subhash Engineering College}{Kolkata, India}
+      {Bachelor of Technology - Information Technology;  GPA: 7.27}{July 2016 - June 2020}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Courses:} Operating Systems, Data Structures, Analysis Of Algorithms, Artificial Intelligence, Machine Learning, Networking, Databases}}}
+    \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+\vspace{-5pt}
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubItem{Vison - multimedia search engine (NLP, Search Engine, Web Crawlers, Multimedia Processing)}{(Work in progress) Research oriented, open source, search engine for bringing reverse multimedia search to small \& mid scale enterprises. Tech: Python, NodeJS, Intel OpenVino Toolkit, Selenium, TensorFlow (October '18)}
+\vspace{2pt}
+\resumeSubItem{Reinforcement Learning based Traffic Control System (Reinforcement Learning, Computer Vision)}{AI model to resolve city traffic around 50\%
+faster. Tech: Python, Alibaba Cloud, Raspberry Pi, Arduino, SUMO \& OpenCV. (August '18)}
+\vspace{2pt}
+\resumeSubItem{Panorama from Satellite Imagery using Distributed Computing (Distributed Computing, Image Processing)}{Images clicked using drones, provided by ISRO were stitched together using distributed public compute nodes, effectively bringing down processing time exponentially. Tech: PHP, C++, Java, Python (March '18)}
+\vspace{2pt}
+\resumeSubItem{Drag-n-drop machine learning learning environment (Web Development, Machine Learning)}{Scratch like tool for implementing machine learning pipelines along with built in tutorial for each concept. Tech: Python, JavaScript (September '18)}
+\vspace{2pt}
+\resumeSubItem{Search Engine and Social Network(Web Development, Web Crawler, Search)}{Created from scratch a social network and a search engine based on the idea of integrating Facebook and Google. The launched website was among top 1000 websites in India during 2012-2013. Tech: PHP, MySQL, HTML, CSS, WebSockets, JavaScript, RSS, XML ( May '12)}
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+%-----------SKILLS-----------------
+\section{Skills Summary}
+	\resumeSubHeadingListStart
+	\resumeSubItem{Languages}{~~~~~~Python, PHP, C++, JavaScript, SQL, Bash, JAVA}
+	\resumeSubItem{Frameworks}{~~~~Scikit, NLTK, SpaCy, TensorFlow, Keras, Django, Flask, NodeJS, LAMP}
+	\resumeSubItem{Tools}{~~~~~~~~~~~~~~Kubernetes, Docker, GIT, PostgreSQL, MySQL, SQLite}
+	\resumeSubItem{Platforms}{~~~~~~~Linux, Web, Windows, Arduino, Raspberry, AWS, GCP, Alibaba Cloud, IBM Cloud}
+	\resumeSubItem{Soft Skills}{~~~~~~~Leadership, Event Management, Writing, Public Speaking, Time Management}
+
+\resumeSubHeadingListEnd
+
+\end{document}

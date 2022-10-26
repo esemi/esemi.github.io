@@ -76,18 +76,18 @@
 
 ### Social
 - update rus-CV
+- дать на вычитку рекрутёрам
 - update [habr profile](https://career.habr.com/esemi)
-- update eng-CV
-- proofreading eng-CV
+- translate to eng-CV
+- proofreading eng-version
 - update linkedin [profile](https://www.linkedin.com/in/esemi/)
-- update medium [profile](https://medium.com/@esemiko)
 
 ### github
 - <https://github.com/esemi/childrens_fairy_tales>
 
 ## Blocked
+- from prague - тележный бот над агрегатором лоукостеров (решает делему куда бы ливнуть на этой или следующей неделе)
 
 ## In progress
 - gyre alpha version
 - canyon notifier tlg
-- from prague - тележный бот над агрегатором лоукостеров (решает делему куда бы ливнуть на этой или следующей неделе)
