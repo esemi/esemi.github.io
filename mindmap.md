@@ -74,12 +74,11 @@
 ## Public relations
 
 ### Social
-- update CV
 - proofreading eng-version
 - proofreading by vas3k.club
 - proofreading M.
 - update [habr profile](https://career.habr.com/esemi)
-- update homepage
+- add link to homepage
 - update linkedin [profile](https://www.linkedin.com/in/esemi/)
 
 ### github
