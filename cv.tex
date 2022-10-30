@@ -16,6 +16,7 @@
 \usepackage{enumitem}
 \usepackage[pdftex]{hyperref}
 \usepackage{fancyhdr}
+\usepackage{tabto}
 
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
@@ -72,6 +73,7 @@
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
 \newcommand{\resumeItemListStart}{\begin{itemize}}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\NumTabs{20}
 
 %-----------------------------
 %%%%%%  CV STARTS HERE  %%%%%%
@@ -104,9 +106,9 @@
         \resumeItem{Moved part of the infrastructure to another hosting provider}
         {Reduced servers expenses by 44\%.}
         \resumeItem{Tuned the development process}
-        {Introduced a unified kanban board with formalised user-stories.}
+        {Implemented a unified kanban board with formalised user-stories.}
         \resumeItem{Released the first version of the service}
-        {From POC to production-ready service with live customers.}
+        {From POC to production-ready service with a live customers.}
     \resumeItemListEnd
 
     \vspace{5pt}
@@ -117,11 +119,11 @@
         \resumeItem{Improved the on-boarding process for new teammates}
         {Updated project documentation, consolidated coding standards through linters and automated all manual activities through CI/CD.}
         \resumeItem{Standardised tasks for integration with other teams}
-        {Accelerated new integration's into our service.}
-        \resumeItem{Implemented a new access distribution model for corporate clients}
+        {Accelerated new integrations to our service.}
+        \resumeItem{Implemented a new access distribution model for the corporate clients}
         {Made the user experience in our tool much simpler for 30\% of users.}
         \resumeItem{Did extensive research on Zapier-like services}
-        {Became clear how current integrations with 3rd-party tools could be built on.}
+        {Made more clear how current integrations with 3rd-party tools could be built on.}
     \resumeItemListEnd
 
     \vspace{5pt}
@@ -140,7 +142,7 @@
     \resumeSubheading{Semrush Inc.}{Prague, Czech Republic}
     {Tech lead at billing platform}{Summer 2020 - Winter 2022}
     \resumeItemListStart
-        \resumeItem{Adopted a change in the sales model for our SaaS}
+        \resumeItem{Supported a change in the sales model for our SaaS}
         {Designed and implemented the POC of the new subscription system.}
         \resumeItem{Migrated the team's services to the cloud infrastructure}
         {Reduced infrastructure expenses by 60\%.}
@@ -180,7 +182,7 @@
     %\resumeSubItem{IMDB Visualiser (Visualisation, Graph Theory)}{Interactive graph of films and actors, based on links between them on imdb.com. Tech: Golang, Neo4j, Javascript. (work in progress)}
     %\vspace{2pt}
 
-    \resumeSubItem{Tax Calculator Tool (Investing, Taxes, CLI-tools)}{Utility for tax reporting based on Interactive Brokers LLC report for residents of the Czech Federation. Tech: Python, Pandas. (May '22)}
+    \resumeSubItem{Tax Calculator Tool (Investing, Taxes, CLI-tools)}{Utility for tax reporting based on Interactive Brokers LLC report for residents of the Czech Republic. Tech: Python, Pandas. (May '22)}
     \vspace{2pt}
 
     \resumeSubItem{Investment portfolio management tool (Investing, CLI-tools)}{Portfolio management software based on reports from five brokerages. Tech: Scala, Javascript, XPath. (April '21)}
@@ -195,7 +197,7 @@
     \resumeSubItem{Adult Movies Graph (Crawlers, Visualisation, Graph Theory, Web Services)}{An interactive graph of pornhub.com clips based on backlinks. Tech: Python, Javascript, lxml, Puppeteer, Mongodb, Sigma.js, Gephi. (July '18)}
     \vspace{2pt}
 
-    \resumeSubItem{Musicians Clustering (Crawlers, Music, Research)}{Research into the overlap of music genres on the Yandex.Music (Spotify-like service). Tech: Python, Selenium, lxml, Igraph (November '17)}
+    \resumeSubItem{Musicians Clustering (Crawlers, Music, Research)}{Research into the overlap of music styles on the Yandex.Music (Spotify-like service). Tech: Python, Selenium, lxml, Igraph (November '17)}
     \vspace{2pt}
 
     \resumeSubItem{Travian Bot (Browser Automation, Gaming)}{Bot to automate most of the daily tasks in Travian online-game. Tech: Python, Selenium, lxml (February '17)}
@@ -210,11 +212,11 @@
 % TODO список базвордов бесит и хочется его уменьшить, оставил только те, с которыми есть либо обширный опыт либо желание работатьс. Это норм вообще или нужен индусский подход для автопарсеров?
 % TODO Непонятно, как запруфать каждый базворд в описании проектов/мест работы и нужно ли это
 \section{Skills Summary}
-	\resumeSubHeadingListStart
-	\resumeSubItem{Languages}{~~~~~~~Python, SQL, PHP}
-	\resumeSubItem{Tools}{~~~~~~~~~~~~~~FastAPI, Starlette, Flask, SQLAlchemy, Peewee, Pytest, Poetry}
-	\resumeSubItem{Data}{~~~~~~~~~~~~~~~Postgresql, Redis, Mysql, Mongodb, Neo4j}
-	\resumeSubItem{Infrastructure}{~Kubernetes, Helm, Docker, GCP, Gitlab CI, Github Actions}
+\resumeSubHeadingListStart
+	\resumeSubItem{Languages}{\tab\tab Python, SQL, PHP}
+	\resumeSubItem{Tools}{\tab\tab\tab\tab FastAPI, Starlette, Flask, SQLAlchemy, Peewee, Pytest, Poetry}
+	\resumeSubItem{Data}{\tab\tab\tab\tab Postgresql, Redis, Mysql, Mongodb, Neo4j}
+	\resumeSubItem{Infrastructure}{\tab Kubernetes, Helm, Docker, GCP, Gitlab CI, Github Actions}
 \resumeSubHeadingListEnd
 
 \end{document}
