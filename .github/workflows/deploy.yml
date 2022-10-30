@@ -19,8 +19,14 @@ jobs:
         node-version: '16'
     - run: npm install markmap-cli
 
+    - name: Compile CV
+      uses: dante-ev/latex-action@latest
+      with:
+        root_file: cv.tex
+
     - name: Build mind map
       run: |
+        cp cv.pdf docs/cv.pdf
         npm exec -- markmap-cli --no-open --no-toolbar mindmap.md -o docs/mindmap.html
 
     - name: Push to github-pages
