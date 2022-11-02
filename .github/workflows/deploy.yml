@@ -24,7 +24,7 @@ jobs:
       with:
         root_file: cv.tex
 
-    - name: Build mind map
+    - name: Build
       run: |
         cp cv.pdf docs/cv.pdf
         npm exec -- markmap-cli --no-open --no-toolbar mindmap.md -o docs/mindmap.html

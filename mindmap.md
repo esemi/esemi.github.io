@@ -75,9 +75,9 @@
 ## Public relations
 
 ### Social
-- update [habr profile](https://career.habr.com/esemi)
-- add link to homepage
-- update linkedin [profile](https://www.linkedin.com/in/esemi/)
+- update [habr profile](https://career.habr.com/esemi) by cv
+- add cv-link to homepage
+- update linkedin [profile](https://www.linkedin.com/in/esemi/) by cv
 
 ### github
 - <https://github.com/esemi/childrens_fairy_tales>
