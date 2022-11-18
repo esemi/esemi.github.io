@@ -72,6 +72,7 @@
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
 \newcommand{\resumeItemListStart}{\begin{itemize}}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\newcommand{\padding}{\vspace{1.6pt}}
 \NumTabs{20}
 
 %-----------------------------
@@ -82,28 +83,32 @@
 %----------HEADING-----------------
 \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
   \textbf{\LARGE Simon Efremov} & \href{mailto:esemiko@gmail.com}{esemiko@gmail.com}\\
-  \href{https://github.com/esemi}{Github: ~~github.com/esemi} & +420 604 872 966 \\
-  \href{https://www.linkedin.com/in/esemi/}{Linkedin: linkedin.com/in/esemi} & Prague, Czech Republic \\
+  \textbf{Tech Lead / Software Developer} & +420 604 872 966\\
+  \href{https://github.com/esemi}{Github: ~~github.com/esemi} & Prague, Czech Republic\\
+  \href{https://www.linkedin.com/in/esemi/}{Linkedin: linkedin.com/in/esemi}\\
 
 
 \end{tabular*}
 
-% TODO не слишком ли перекос в сторону бизнеса и импакта? Как то без техники совсем грустно =(
-% TODO шаблон сильно лучше? https://docs.google.com/document/d/1-7QVHhYfiMZmTe5L1P6PEs10NZnXSCGHcyN9P72APHk/edit
-% TODO не нужно ли поменять местами название компании с тайтлом?
 % TODO не пестрит ли в глазах от форматирования на всей странице?
 % TODO нужно ли добавить ссылки на статьи/сервисы, если они на русском (сервисы)?
-% TODO список базвордов бесит и хочется его уменьшить, оставил только те, с которыми есть либо обширный опыт либо желание работатьс. Это норм вообще или нужен индусский подход для автопарсеров с перечислением всего что видел?
 
 %-----------EXPERIENCE-----------------
 \vspace{-5pt}
+\section{Summary}
+Software Engineer with 14+ years experience in product-oriented companies. Can set up the development process or be included on ongoing, from scratch to release. Best motivated when see the impact on end users.
+\vspace{-5pt}
+
+%-----------EXPERIENCE-----------------
+
 \section{Experience}
   \resumeSubHeadingListStart
-    \resumeSubheading{Gyre TV}{Remote}
-    {Chief Technology Officer}{10/2021 - present}
+    \resumeSubheading{Chief Technology Officer}{Remote}
+    {Gyre.TV}{10/2021 - present}
 
     \resumeItemListStart
-        \resumeItemWithoutTitle{I participate in defining the product roadmap, decomposing new features into technical tasks, and solving technical challenges.}
+        \resumeItemWithoutTitle{Participating in defining the product roadmap, decomposing new features into tasks, and solving technical challenges.}
+        \resumeItemWithoutTitle{Tech: PostgreSQL, Python, FastAPI, React, GitHub Actions, Pytest, asyncio.}
         \resumeItem{Rebuilt the data collection system}
         {50x growth in user base and streams.}
         \resumeItem{Moved part of the infrastructure to another hosting provider}
@@ -111,15 +116,16 @@
         \resumeItem{Tuned the development process}
         {implemented a unified Kanban board with formalised user stories.}
         \resumeItem{Released the first version of the streaming partnership service}
-        {from POC to production-ready service with live customers.}
+        {from POC to production-ready service.}
     \resumeItemListEnd
 
-    \vspace{2pt}
+    \padding
 
-    \resumeSubheading{Semrush Inc.}{Prague, Czech Republic}
-    {Software Developer for sharing center and corporate access projects}{01/2022 - present}
+    \resumeSubheading{Software Developer}{Prague, Czech Republic}
+    {Semrush Inc, Sharing Center \& Corporate Access}{01/2022 - present}
     \resumeItemListStart
-        \resumeItemWithoutTitle{I implement new features and help to plan the team's half-year horizon roadmap, thereby reducing tech debt.}
+        \resumeItemWithoutTitle{Implement new features and help to plan the team's half-year horizon roadmap.}
+        \resumeItemWithoutTitle{Tech: MongoDB, MySQL, Python, FastAPI, Flask, GRPC, GitLab CI, Pytest, Kubernetes, Helm, GCP.}
         \resumeItem{Improved the on-boarding process for new teammates}
         {updated project documentation and automated all manual activities using CI/CD.}
         \resumeItem{Standardised tasks for integration with other teams}
@@ -130,12 +136,13 @@
         {clarified how current integrations with 3rd-party tools could be built on.}
     \resumeItemListEnd
 
-    \vspace{2pt}
+    \padding
 
-    \resumeSubheading{Semrush Inc.}{Prague, Czech Republic}
-    {Tech Lead for a billing platform}{05/2020 - 12/2021}
+    \resumeSubheading{Tech Lead}{Prague, Czech Republic}
+    {Semrush Inc, Billing Platform}{05/2020 - 12/2021}
     \resumeItemListStart
-        \resumeItemWithoutTitle{I tracked the technical goal roadmap, collected requirements for the new system in the user stories, designed the new user billing engine and wrote the code including testing.}
+        \resumeItemWithoutTitle{Tracked the tech goal roadmap, collected requirements for the new subscription system, designed and implement it.}
+        \resumeItemWithoutTitle{Tech: PostgreSQL, MySQL, Redis, Python, PHP, FastAPI, Flask, GitLab CI, Pytest, Kubernetes, Helm, GCP.}
         \resumeItem{Supported a sales model change}
         {designed and implemented the POC of the new SaaS subscription system.}
         \resumeItem{Migrated the team’s services to the cloud infrastructure}
@@ -144,17 +151,45 @@
         {conducted 100+ interviews with candidates for my own and other teams.}
     \resumeItemListEnd
 
-    \vspace{2pt}
+    \padding
 
-    \resumeSubheading{Various companies}{St. Petersburg, Russia}
-    {Software Developer}{07/2008 - 06/2020}
-    \resumeItemListStart
-        \resumeItemWithoutTitle
-        {Details of previous experience available on request.}
-    \resumeItemListEnd
+    \resumeSubheading{Software Developer}{St. Petersburg, Russia}
+    {Various companies, details of previous experience available on request.}{07/2008 - 05/2020}
 \resumeSubHeadingListEnd
 \vspace{-5pt}
 
+%-----------PROJECTS-----------------
+\section{Projects}
+    \resumeSubHeadingListStart
+
+    \resumeSubItem{Wellness Mobile App (Mobile, NLP, \href{https://apps.apple.com/us/app/id1629296601}{link})}{Dream analysis application uses natural language processing. Tech: Python, PostgreSQL, FastAPI, nltp. (September '22)}
+    \padding
+
+    \resumeSubItem{Tax calculator tool (Investing, Taxes, CLI tools, \href{https://github.com/esemi/investments/tree/devel\#investments}{link})}{Used by Czech residents for tax reporting based on Interactive Brokers LLC report. Tech: Python, pandas. (May '22)}
+    \padding
+
+    \resumeSubItem{Investment portfolio management tool (Investing, CLI tools)}{Portfolio management software based on reports from five brokerages. Tech: Scala, Javascript, XPath. (April '21)}
+    \padding
+
+    \resumeSubItem{Crypto arbitrage bot (Cryptocurrency, Trading)}{The bots looked for exchange rate discrepancies between five cryptocurrency exchanges and made investments accordingly. Tech: Python, Redis, aiohttp, lxml. (June '20)}
+    \padding
+
+    \resumeSubItem{Dating face search tool  (Crawlers, Search Engine, Face Detection, Face Recognition)}{An automatic analytical system to find Tinder® users by facial image search. Tech: Python, Redis, AWS, OpenCV, Scikit, FFmpeg, (March '19)}
+    \padding
+
+    \resumeSubItem{Adult movie data analysis (Crawlers, Visualisation, Graph Theory, Web Services, \href{https://esemi.github.io/pornhub-graph/}{link})}{An interactive graph of pornhub.com clips based on backlinks. Tech: Python, Javascript, lxml, Puppeteer, MongoDB, Sigma.js, Gephi. (July '18)}
+    \padding
+
+    \resumeSubItem{Music clustering (Crawlers, Music, Research, \href{https://habr.com/ru/company/semrush/blog/337216/}{link})}{A huge visualisation of the overlap of music styles on Yandex Music (Spotify-like service). Tech: Python, Selenium, lxml, igraph (November '17)}
+    \padding
+
+    \resumeSubItem{Online game bot (Browser Automation, Gaming, \href{https://github.com/esemi/travian-manager\#travian-manager-bot}{link})}{A utility for Travian - an online game - that automates the boring everyday tasks, only reserving the interesting part of the gameplay for the player. Tech: Python, Selenium (Feb. '17)}
+    \padding
+
+    \resumeSubItem{Online game analytics system(Crawlers, Web Services, Gaming, \href{https://dseye.ru/}{link})}{Collected and displayed metrics for all Destiny Sphere players - an MMORTS game. Tech: PHP, Python, MySQL, Memcached. (January '14)}
+
+\resumeSubHeadingListEnd
+\vspace{-5pt}
 
 %-----------EDUCATION-----------------
 \section{Education}
@@ -163,41 +198,6 @@
         {University of Information Technologies, Mechanic and Optics}{St. Petersburg, Russia}
         {Specialist Degree in Information Systems and Technology (Master’s equivalent)}{September 2006 - May 2012}
     \resumeSubHeadingListEnd
-\vspace{-5pt}
-
-%-----------PROJECTS-----------------
-\section{Projects}
-    \resumeSubHeadingListStart
-
-    %\resumeSubItem{IMDB Visualiser (Visualisation, Graph Theory)}{Interactive graph of films and actors, based on links between them on imdb.com. Tech: Golang, Neo4j, Javascript. (work in progress)}
-    %\vspace{2pt}
-
-    \resumeSubItem{Wellness Mobile App (Mobile, NLP)}{Dream analysis application uses natural language processing. Tech: Python, PostgreSQL, FastAPI, nltp. (September '22)}
-    \vspace{2pt}
-
-    \resumeSubItem{Tax calculator tool (Investing, Taxes, CLI tools)}{Used by Czech residents for tax reporting based on Interactive Brokers LLC report. Tech: Python, pandas. (May '22)}
-    \vspace{2pt}
-
-    \resumeSubItem{Investment portfolio management tool (Investing, CLI tools)}{Portfolio management software based on reports from five brokerages. Tech: Scala, Javascript, XPath. (April '21)}
-    \vspace{2pt}
-
-    \resumeSubItem{Crypto arbitrage bot (Cryptocurrency, Trading)}{The bots looked for exchange rate discrepancies between five cryptocurrency exchanges and made investments accordingly. Tech: Python, Redis, aiohttp, lxml. (June '20)}
-    \vspace{2pt}
-
-    \resumeSubItem{Dating face search tool  (Crawlers, Search Engine, Face Detection, Face Recognition)}{An automatic analytical system to find Tinder® users by facial image search. Tech: Python, Redis, AWS, OpenCV, Scikit, FFmpeg, (March '19)}
-    \vspace{2pt}
-
-    \resumeSubItem{Adult movie data analysis (Crawlers, Visualisation, Graph Theory, Web Services)}{An interactive graph of pornhub.com clips based on backlinks. Tech: Python, Javascript, lxml, Puppeteer, MongoDB, Sigma.js, Gephi. (July '18)}
-    \vspace{2pt}
-
-    \resumeSubItem{Music clustering (Crawlers, Music, Research)}{A huge visualisation of the overlap of music styles on Yandex Music (Spotify-like service). Tech: Python, Selenium, lxml, igraph (November '17)}
-    \vspace{2pt}
-
-    \resumeSubItem{Online game bot (Browser Automation, Gaming)}{A utility for Travian - an online game - that automates the boring everyday tasks, only reserving the interesting part of the gameplay for the player. Tech: Python, Selenium (February '17)}
-    \vspace{2pt}
-    \resumeSubItem{Online game analytics system(Crawlers, Web Services, Gaming)}{Collected and displayed metrics for all Destiny Sphere players - an MMORTS game. Tech: PHP, Python, MySQL, Memcached. (January '14)}
-
-\resumeSubHeadingListEnd
 \vspace{-5pt}
 
 %-----------SKILLS-----------------
