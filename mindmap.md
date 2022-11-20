@@ -65,7 +65,6 @@
 
 ## Projects
 - [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
-- wb price tracker
 - <https://github.com/esemi/pub-list>
 - invest report to pages
 - github backups
@@ -76,7 +75,6 @@
 
 ### Social
 - update [habr profile](https://career.habr.com/esemi) by cv
-- add cv-link to homepage
 - update linkedin [profile](https://www.linkedin.com/in/esemi/) by cv
 
 ### github
