@@ -2,27 +2,23 @@
 
 ## Soft
 
-### english
-- daily lessons
-
-
 ### манагерство
-- [interns](https://habr.com/ru/company/raiffeisenbank/blog/526342/)
+- Story point / человекочасы / PERT / уверенность к дате / футболки
+- фазы формирования команды Storming-norming-performing
+- Мифический человеко-месяц
+- Черный лебедь Талеба
 - Роман об управлением проектами  
 - Психбольница, в руках пациентов
-- Черный лебедь Талеба
-- Мифический человеко-месяц
 - Проект Феникс
 - "Простите, я разрушил вашу компанию"
-- разные техники оценки проектов и способен объяснить разницу. Story point / человекочасы / PERT / уверенность к дате / футболки и все остальное
-- фазы формирования команды Storming-norming-performing
 
 
-## Hard-skills
+## Hard
 
 ### Common
-- compile podlodka meetup results to gist
 - SOLID
+- shared memory linux
+- static and dynamic memory allocation
 - KISS+YAGNI+DRY
 - [Фаулер о микросервисах](https://habr.com/ru/post/249183/)
 - Clean code book
@@ -53,7 +49,6 @@
 
 
 ### Python
-- [python sets](https://habr.com/ru/post/516858/)
 - <https://github.com/tiangolo/sqlmodel>
 - <https://github.com/coleifer/huey>
 - [FP](https://habr.com/ru/post/505928/)
@@ -64,25 +59,22 @@
 - prom
 
 ## Projects
+- epsa gamebot to projects li / cv
+- backtester to projects li / cv
 - [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
-- <https://github.com/esemi/pub-list>
-- invest report to pages
-- github backups
-- <https://github.com/esemi/ibtax_web_ui>
 - python client for <https://github.com/Formicka/exchangerate.host>
 
 ## Public relations
 
 ### Social
+- CV - checking by native speakers
 - update [habr profile](https://career.habr.com/esemi) by cv
 - update linkedin [profile](https://www.linkedin.com/in/esemi/) by cv
+- linkedin - checking by native speakers 
 
 ### github
 - <https://github.com/esemi/childrens_fairy_tales>
 
-## Blocked
-- from prague - тележный бот над агрегатором лоукостеров (решает делему куда бы ливнуть на этой или следующей неделе)
 
 ## In progress
-- gyre alpha version
-- canyon notifier tlg
+- menty project: prague low cost
