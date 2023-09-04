@@ -59,8 +59,8 @@
 - prom
 
 ## Projects
-- epsa gamebot to projects li / cv
-- backtester to projects li / cv
+- backtester to projects li
+- epsa gamebot to projects li
 - [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
 - python client for <https://github.com/Formicka/exchangerate.host>
 
