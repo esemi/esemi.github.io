@@ -59,17 +59,19 @@
 - prom
 
 ## Projects
-- backtester to projects li
-- epsa gamebot to projects li
 - [граф участников фильма](https://github.com/esemi/psychic-couscous/projects/1)
 - python client for <https://github.com/Formicka/exchangerate.host>
 
 ## Public relations
 
 ### Social
+- CV update experience gyre 
+- CV update experience cobalt team
+- CV - checking by vas3k chat
+- CV - split to "projects" and "classic career" ?
 - CV - checking by native speakers
-- update [habr profile](https://career.habr.com/esemi) by cv
-- update linkedin [profile](https://www.linkedin.com/in/esemi/) by cv
+- update [habr profile](https://career.habr.com/esemi) by cv (classic career)
+- update linkedin [profile](https://www.linkedin.com/in/esemi/) by cv (classic career)
 - linkedin - checking by native speakers 
 
 ### github
